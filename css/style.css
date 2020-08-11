@@ -459,7 +459,7 @@ body{
 #img{
   margin: 0;
   padding: 0 ;
-  height: 85vh;
+  
 }
 .main2{
   padding:0;
@@ -767,7 +767,7 @@ body{
 }
 .img-wrapper img:hover{
   transform: scale(1.2);
-  cursor: zoom-in;
+  cursor: pointer;
 }
 #myNavbar{
 z-index: 999;
