@@ -1,4 +1,4 @@
-# Portfolio Website : https://deveshprasad.github.io/deveshprasad/
+# Portfolio Website : https://deveshprasad.github.io
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif)
