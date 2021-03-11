@@ -3,9 +3,6 @@
 PC VIEW:
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif)
 
-MOBILE VIEW:
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/63739986/110806121-c0291800-82a7-11eb-8ec6-a8f1dc423433.gif)
-
 1)
 ![1](https://user-images.githubusercontent.com/63739986/110804707-6c69ff00-82a6-11eb-912e-92579795c2a3.png)
 
